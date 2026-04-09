@@ -16,3 +16,7 @@ SQL Operations Performed:
 Create database, Create Table, Alter table, Drop table
 	DML COMMANDS:
 Insert, Delete, Select
+
+# Conclusion:
+This project helped in understanding Real-world database design, Data relationships using foreign keys and query optimization using sql clauses.
+
