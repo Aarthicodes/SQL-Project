@@ -12,9 +12,9 @@ This project focuses on designing and implementing a social media database using
 •	To perform data insertion and retrieval.
 •	To apply SQL concepts like GROUP BY, HAVING, JOIN etc.
 # SQL Operations Performed:
-	DDL COMMANDS:
+•	DDL COMMANDS:
 Create database, Create Table, Alter table, Drop table
-	DML COMMANDS:
+•	DML COMMANDS:
 Insert, Delete, Select
 
 # Conclusion:
